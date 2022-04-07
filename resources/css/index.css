@@ -1,0 +1,56 @@
+body{
+    margin: 2vh 5vw;
+}
+
+/* .rectangle{
+    position: absolute;
+    width: 2rem;
+    height: 0.75rem;
+
+    background: linear-gradient(96.34deg, #E537B9 0%, #C040DF 100%);
+    border-radius: 4.5px;
+    display: block;
+} */
+
+#heading{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.4375rem;
+    line-height: 1.5rem;
+    letter-spacing: 0.125px;
+    display: block;
+}
+
+.today{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+
+.insights{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    color: #858585;
+}
+
+.card-inside{
+    padding: 1rem;
+}
+
+.navigating-buttons-next{
+    background-color: darkgray;
+    width: 0.75rem;
+    border-radius: 10px;
+}
+
+.navigating-buttons-prev{
+    background-color: darkgray;
+    width: 0.75rem;
+    border-radius: 10px;
+}
